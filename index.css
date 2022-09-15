@@ -1,8 +1,13 @@
 header {
 font-size: 40px;
   font-family: sans-serif;
-  padding: 40px;
-  
+  padding: 40px; 
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 p {
