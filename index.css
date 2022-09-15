@@ -2,14 +2,23 @@
 font-size: 53px;
   font-family: sans-serif;
   padding: 40px; 
+  margin-top: 23%;
 }
 
 .body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 50%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* margin-left: 43%; */
+    /* margin-right: 26%; */
+    flex-wrap: wrap;
+    /* flex-flow: wrap; */
+    flex-wrap: wrap;
 }
 
 p {
   font-family: sans-serif;
 }
+
+ul {font-family: sans-serif;}
